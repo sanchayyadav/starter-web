@@ -1,5 +1,5 @@
 # Starter Web Repo
-This repository is for showing how Git and GitHub work>>>>hello
+This repository is for showing how Git and GitHub work>>>>hello>>>bye
 
 ## Introduction
 This is example is to show diffrent parts of the Git repository and various commands using a web projects.Some more text
