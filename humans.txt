@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sanchay Yadav  Associate software engineer Neahas.com
 
 # THANKS
 
